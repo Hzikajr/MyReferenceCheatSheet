@@ -14,6 +14,7 @@ Links for websites or papers/documentations I referred
 ### Common theme
 "シングルトン": https://qiita.com/shoheiyokoyama/items/c16fd547a77773c0ccc1
 "物理量のオブジェクトモデル実装": https://qiita.com/tmakimoto/items/b5bde063e05ba89d2de6
+Regular Expressions: https://regex101.com
 
 ### OSX specific
 "Linking libusb in Mac OSX": https://stackoverflow.com/questions/20416827/linking-libusb-in-mac-os-x
@@ -29,6 +30,9 @@ Links for websites or papers/documentations I referred
 Awesome-Swift: https://github.com/olucurious/Awesome-ARKit
 SwiftyJSON: https://github.com/SwiftyJSON/SwiftyJSON
 Alamofire: https://github.com/Alamofire/Alamofire
+UXMPDFKit: https://github.com/uxmstudio/UXMPDFKit
+FolioReaderKit: https://github.com/FolioReader/FolioReaderKit
+Awesome-CoreML-Models: https://github.com/likedan/Awesome-CoreML-Models
 
 #### Troubleshooting
 逆引きSwift (iOS tutorial): http://docs.fabo.io/swift/
@@ -70,3 +74,10 @@ Magenta (music and art generation with machine intelligence): https://github.com
 libseek-thermal: https://github.com/maartenvds/libseek-thermal
 ofxARKit: https://github.com/sortofsleepy/ofxARKit
 pd-ggee (externals for puredata including streamout~): https://github.com/reduzent/pd-ggee
+wordlist (collection of some common words for password or username for blute force): https://github.com/jeanphorn/wordlist
+DeepAA (ASCII art by deep learning): https://github.com/OsciiArt/DeepAA
+amen (toolbox for algorithmic remixing): https://github.com/algorithmic-music-exploration/amen
+alternative-internet (collection of interesting new networks and tech aiming at decentralisation): https://github.com/redecentralize/alternative-internet
+MUSE (library for multilingual unsupervised or supervised word embeddings): https://github.com/facebookresearch/MUSE
+data-oriented-design (curated list of data oriented design resources): https://github.com/dbartolini/data-oriented-design
+dplace-data: https://github.com/D-PLACE/dplace-data
