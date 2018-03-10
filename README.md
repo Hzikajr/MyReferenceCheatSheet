@@ -10,6 +10,9 @@ Links for websites or papers/documentations I referred
 #### Caffe
 - "Install Caffe + CUDA in OSX Sierra": https://gist.github.com/rizkyario/8adf4e248afd3de509c00f30bd23fe61
 
+#### Articles
+- Google Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course
+
 ### Xcode
 - "How to use Wireless Debugging on Xcode 9": https://medium.com/swiftist/wireless-debugging-xcode-b6e98e26e022
 
@@ -18,6 +21,7 @@ Links for websites or papers/documentations I referred
 - "シングルトン": https://qiita.com/shoheiyokoyama/items/c16fd547a77773c0ccc1
 - "物理量のオブジェクトモデル実装": https://qiita.com/tmakimoto/items/b5bde063e05ba89d2de6
 - Regular Expressions: https://regex101.com
+- Particle Systems From the Ground Up: http://buildnewgames.com/particle-systems/
 
 ### OSX specific
 - "Linking libusb in Mac OSX": https://stackoverflow.com/questions/20416827/linking-libusb-in-mac-os-x
@@ -48,6 +52,13 @@ Links for websites or papers/documentations I referred
 - "failing to instantiate default view controller": https://stackoverflow.com/questions/20875823/ios-7-failing-to-instantiate-default-view-controller
 - "GCD(Grand Central Dispatch)について": https://qiita.com/tatetate55/items/076cbf031b12f3d51eb7
 
+#### Articles
+- "How To Secure iOS User Data: The Keychain and Biometrics - Face ID or Touch ID": https://www.raywenderlich.com/179924/secure-ios-user-data-keychain-biometrics-face-id-touch-id
+- "Basic Security in iOS 5 - Part 1": https://www.raywenderlich.com/6475/basic-security-in-ios-5-tutorial-part-1
+- Apple Developer - Human Interface Guidelines (ARKit): https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/
+- Apple Developer - HUman Interface Guidelines: https://developer.apple.com/design/
+- Learn Swift Programming: https://learnswift.tips
+
 ### PureData
 - "Video Tutorial: MIDI from Ableton Live to Pure data (IAC Driver)": http://www.kevindemarco.com/2012/08/18/video-tutorial-midi-from-ableton-live-to-pure-data-iac-driver/
 - "Audio over Ethernet": https://forum.pdpatchrepo.info/topic/9668/audio-over-ethernet
@@ -57,6 +68,10 @@ Links for websites or papers/documentations I referred
 - "How can I create a directory if it does not exist?": https://stackoverflow.com/questions/273192/how-can-i-create-a-directory-if-it-does-not-exist
 - "How do I copy a file in python?": https://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python
 - "Converting integer to string in Python?": https://stackoverflow.com/questions/961632/converting-integer-to-string-in-python
+- "Count how many lines are in a CSV Python?": https://stackoverflow.com/questions/16108526/count-how-many-lines-are-in-a-csv-python
+- "Python - Batch Processing of multiple existing scripts": https://stackoverflow.com/questions/27003609/python-batch-processing-of-multiple-existing-scripts
+- Python - Dictionary: https://www.tutorialspoint.com/python/python_dictionary.htm
+- OpenCV(cv2)をcondaでインストール(python3.6): https://qiita.com/sai_kai_cs/items/adae1724931042405ec0
 
 ### HTML, web
 - Bootstrap example - carousel: https://getbootstrap.com/docs/4.0/examples/carousel/
@@ -69,6 +84,10 @@ Links for websites or papers/documentations I referred
 ## Video tutorials
 - "How Machines Learn": https://www.youtube.com/watch?v=R9OHn5ZF4Uo
 - "Pure Data": https://www.youtube.com/playlist?list=PL12DC9A161D8DC5DC
+
+## Mathematics, Algorithms
+- "Median Filtering in Constant Time": http://nomis80.org/ctmf.html
+- "Peak signal detection in realtime timeseries data": https://stackoverflow.com/questions/22583391/peak-signal-detection-in-realtime-timeseries-data
 
 ## GitHub libraries - something interesting
 - gensim-data (data repo for pretrained NLP models and NLP corpora): https://github.com/RaRe-Technologies/gensim-data
@@ -84,3 +103,7 @@ Links for websites or papers/documentations I referred
 - MUSE (library for multilingual unsupervised or supervised word embeddings): https://github.com/facebookresearch/MUSE
 - data-oriented-design (curated list of data oriented design resources): https://github.com/dbartolini/data-oriented-design
 - dplace-data: https://github.com/D-PLACE/dplace-data
+- awesome-ios: https://github.com/vsouza/awesome-ios
+- Async: https://github.com/duemunk/Async
+- FACE-LIBRARY: https://github.com/xuefeng7/FACE-LIBRARY
+- Happiness-Study: https://github.com/xuefeng7/Happiness-Study
